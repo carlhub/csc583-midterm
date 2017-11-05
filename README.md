@@ -1,5 +1,8 @@
 # Toro Net
 
+## CSC 583 Midterm Milestone
+View milestone.png in imags: [BackendTeam Milestone](images/milestone.png)
+
 ## Getting started with VirtualBox
 Fork the repo then clone it to your local machine.
 ```
